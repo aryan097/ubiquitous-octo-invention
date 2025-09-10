@@ -1,0 +1,29 @@
+2025-09-10 09:47:16,033 INFO Starting run...
+2025-09-10 09:47:16,033 INFO User=maharaj Host=aryans-macbook-pro.local Env=DEV
+2025-09-10 09:47:16,033 INFO regpath=/Users/maharaj/Documents/C86Client360_09112025/REG_DEV
+2025-09-10 09:47:16,034 INFO logpath=/Users/maharaj/Documents/C86Client360_09112025/REG_DEV/C86/log/product_appropriateness/client360
+2025-09-10 09:47:16,034 INFO outpath=/Users/maharaj/Documents/C86Client360_09112025/REG_DEV/output/product_appropriateness/client360
+2025-09-10 09:56:37,669 WARNING teradatasql not available; returning None. Install with: pip install teradatasql
+2025-09-10 10:00:29,121 WARNING teradatasql not available; returning None. Install with: pip install teradatasql
+2025-09-10 10:13:52,085 WARNING teradatasql not available; returning None. Install with: pip install teradatasql
+2025-09-10 10:15:27,949 WARNING teradatasql not available; returning None. Install with: pip install teradatasql
+2025-09-10 10:17:32,511 INFO OPPOR_ID not found in c360_detail_pre; skipping merge and setting tool_used to None.
+2025-09-10 10:17:32,519 INFO Column 'lob' not found in c360_detail; skipping frequency table.
+2025-09-10 10:18:08,884 INFO OPPOR_ID not found in c360_detail_pre; skipping merge and setting tool_used to None.
+2025-09-10 10:18:08,888 INFO Column 'lob' not found in c360_detail; skipping frequency table.
+2025-09-10 10:21:54,562 WARNING teradatasql not available; returning None. Install with: pip install teradatasql
+2025-09-10 10:21:54,563 INFO OPPOR_ID not found in c360_detail; skipping AOT join.
+2025-09-10 10:39:22,436 INFO evnt_id not found in c360_detail_more_in_pre; skipping merge.
+2025-09-10 10:39:46,664 INFO evnt_id not found in c360_detail_more_in_pre; skipping merge.
+2025-09-10 11:55:04,243 INFO Starting run...
+2025-09-10 11:55:04,244 INFO User=maharaj Host=aryans-macbook-pro.local Env=DEV
+2025-09-10 11:55:04,244 INFO regpath=/Users/maharaj/Documents/C86Client360_09112025/REG_DEV
+2025-09-10 11:55:04,244 INFO logpath=/Users/maharaj/Documents/C86Client360_09112025/REG_DEV/C86/log/product_appropriateness/client360
+2025-09-10 11:55:04,244 INFO outpath=/Users/maharaj/Documents/C86Client360_09112025/REG_DEV/output/product_appropriateness/client360
+2025-09-10 11:55:04,297 WARNING teradatasql not available; returning None. Install with: pip install teradatasql
+2025-09-10 11:55:04,322 WARNING teradatasql not available; returning None. Install with: pip install teradatasql
+2025-09-10 11:55:04,331 INFO OPPOR_ID not found in c360_detail_pre; skipping merge and setting tool_used to None.
+2025-09-10 11:55:04,333 INFO Column 'lob' not found in c360_detail; skipping frequency table.
+2025-09-10 11:55:04,344 WARNING teradatasql not available; returning None. Install with: pip install teradatasql
+2025-09-10 11:55:04,344 INFO OPPOR_ID not found in c360_detail; skipping AOT join.
+2025-09-10 11:55:04,372 INFO evnt_id not found in c360_detail_more_in_pre; skipping merge.
