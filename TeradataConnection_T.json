@@ -1,0 +1,7 @@
+{
+  "url": "tdprod.company.net",
+  "user": "YOUR_LDAP_USERNAME",
+  "password": "YOUR_LDAP_PASSWORD",
+  "database": "DDWV01",
+  "description": "Production Teradata connection for Client360 / C86 PA job"
+}
